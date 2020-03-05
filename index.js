@@ -11,4 +11,4 @@ function logShout(string) {
      'Hello!'.toUpperCase()
 }
 
-console.log(logShout)
+console.log(logShout()).toUpperCase()
