@@ -20,6 +20,6 @@ function sayHiToGrandma(string) {
     return "I can't hear you!";
   } else (string.toLowerCase() === lowercase){
     return "YES INDEED!";
-  } else ( string.toLowerCase() === mixedCase) {
-    return "I love you, too." if `string` is "I love you, Grandma."
+  } else ( "I love you, Grandma." === true) {
+    return "I love you, too.";
   }
